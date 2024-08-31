@@ -13,8 +13,8 @@ export default function Home() {
               className="rounded-full mb-10"
               alt="Picture of the author"
             />
-            <h1 className="text-2xl mb-2 font-bold">Jessica Randall</h1>
-            <h4 className="text-sm font-semibold text-green-400">
+            <h1 className="text-2xl mb-2 font-bold font-specimen">Jessica Randall</h1>
+            <h4 className="text-sm font-semibold text-lime-400">
               London, United Kingdom
             </h4>
           </div>
@@ -22,22 +22,22 @@ export default function Home() {
             <h4>&quot;Front-end developer and avid reader&quot;</h4>
           </div>
           <div className="flex flex-col">
-            <button className="flex justify-center items-center m-2 p-4 rounded-lg bg-zinc-800 font-semibold hover:bg-green-400 hover:text-black">
+            <button className="flex justify-center items-center m-2 p-4 rounded-lg bg-zinc-800 font-semibold hover:bg-lime-400 hover:text-black">
               Github
             </button>
             <button
-              className="flex justify-center items-center m-2 p-4 rounded-lg bg-zinc-800 font-semibold hover:bg-green-400 hover:text-black"
+              className="flex justify-center items-center m-2 p-4 rounded-lg bg-zinc-800 font-semibold hover:bg-lime-400 hover:text-black"
               style={{ hover: { backgroundColor: "#a3e635" } }}
             >
               Frontend Mentor
             </button>
-            <button className="flex justify-center items-center m-2 p-4 rounded-lg bg-zinc-800 font-semibold hover:bg-green-400 hover:text-black">
+            <button className="flex justify-center items-center m-2 p-4 rounded-lg bg-zinc-800 font-semibold hover:bg-lime-400 hover:text-black">
               Linkedin
             </button>
-            <button className="flex justify-center items-center m-2 p-4 rounded-lg bg-zinc-800 font-semibold hover:bg-green-400 hover:text-black">
+            <button className="flex justify-center items-center m-2 p-4 rounded-lg bg-zinc-800 font-semibold hover:bg-lime-400 hover:text-black">
               Twitter
             </button>
-            <button className="flex justify-center items-center m-2 p-4 rounded-lg bg-zinc-800 font-semibold hover:bg-green-400 hover:text-black">
+            <button className="flex justify-center items-center m-2 p-4 rounded-lg bg-zinc-800 font-semibold hover:bg-lime-400 hover:text-black">
               Instagram
             </button>
           </div>
