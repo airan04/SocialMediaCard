@@ -11,7 +11,7 @@ export default function Home() {
               width={100}
               height={100}
               className="rounded-full mb-10"
-              // alt="Picture of the author"
+              alt="Picture of the author"
             />
             <h1 className="text-2xl mb-2 font-bold">Jessica Randall</h1>
             <h4 className="text-sm font-semibold text-green-400">
@@ -19,7 +19,7 @@ export default function Home() {
             </h4>
           </div>
           <div className="m-4">
-            <h4>"Front-end developer and avid reader"</h4>
+            <h4>&quot;Front-end developer and avid reader&quot;</h4>
           </div>
           <div className="flex flex-col">
             <button className="flex justify-center items-center m-2 p-4 rounded-lg bg-zinc-800 font-semibold hover:bg-green-400 hover:text-black">
